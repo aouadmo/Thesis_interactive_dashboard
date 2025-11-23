@@ -1,0 +1,5 @@
+{
+  "name": "FDSOI Cryo-Modeling Dashboard",
+  "description": "Interactive research dashboard for the PhD thesis 'Compact modeling of FDSOI transistors at cryogenic temperatures' by Mohamed Aouad. Features physics exploration, model architecture breakdown, and validation data.",
+  "requestFramePermissions": []
+}
